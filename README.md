@@ -71,4 +71,4 @@
 - [@Facebook](https://facebook.com/nazmulalibiswas.official/) 
 - [@Twitter](https://twitter.com/nazmulalibiswas/) 
 - [@Instagram](https://instagram.com/nazmulalibiswas/) 
-### React with nazmulalibiswas
+### JavaScript Fundamental with nazmulalibiswas
